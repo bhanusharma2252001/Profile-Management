@@ -1,0 +1,33 @@
+{
+    "savedUser": {
+        "firstName": "Prem ",
+        "middleName": "",
+        "lastName": "Kumar",
+        "email": "premKuamr02@gmail.com",
+        "password": "U2FsdGVkX191a+fuhKyxFQQsYnud8lxDJka4/GoDh7Y=",
+        "role": "admin",
+        "department": "Management",
+        "_id": "617bb841d150273b7fd51690",
+        "createdAt": "2021-10-29T09:00:49.978Z",
+        "updatedAt": "2021-10-29T09:00:49.978Z",
+        "__v": 0
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJQcmVtICIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTYzNTQ5ODA1MCwiZXhwIjoxNjM1NzU3MjUwfQ.aqGrxRlMcznk5rc8lX9fzZS0Y-E900JWPfDZVE-9lD4"
+}
+
+{
+    "savedUser": {
+        "firstName": "Bhavnesh ",
+        "middleName": "",
+        "lastName": "Sharma",
+        "email": "premKuamr02@gmail.com",
+        "password": "U2FsdGVkX18oy1qqN4zJwxYeNu2ZQRK8SmJDbvsiTDI=",
+        "role": "User",
+        "department": "Management",
+        "_id": "617bb871d150273b7fd51692",
+        "createdAt": "2021-10-29T09:01:37.458Z",
+        "updatedAt": "2021-10-29T09:01:37.458Z",
+        "__v": 0
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJzdE5hbWUiOiJCaGF2bmVzaCAiLCJyb2xlIjoiVXNlciIsImlhdCI6MTYzNTQ5ODA5NywiZXhwIjoxNjM1NzU3Mjk3fQ.Cow4PVyNbxUHCUrlkYzwdWf6qTxrx2R8mxNQCpsM_0c"
+}
